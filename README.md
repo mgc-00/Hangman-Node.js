@@ -15,7 +15,7 @@ Installation
 
 1. Clone the repository:
 
-git clone https://github.com/roverkim/Hangman-Node
+git clone https://github.com/mgc-00/Hangman-Node.js
 
 2. Navigate to the project directory:
 
