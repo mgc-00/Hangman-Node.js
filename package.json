@@ -1,0 +1,14 @@
+{
+  "name": "hangman-node",
+  "version": "2.1.0",
+  "description": "A command-line Hangman game using JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/mgc-00/hangman-node.git",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  }
+}
